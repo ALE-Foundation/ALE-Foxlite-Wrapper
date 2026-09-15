@@ -1,0 +1,17 @@
+{
+	"name": "ale-foxlite-wrapper",
+	"url": "https://https://github.com/ALE-Foundation/ALE-Foxlite-Wrapper",
+	"license": "MIT",
+	"tags": [
+		"haxe",
+		"foxlite",
+		"flixel",
+		"3d"
+	],
+	"description": "Heavely WIP",
+	"version": "0.1",
+	"releasenote": "",
+	"contributors": [
+		"AlejoGDOfficial"
+	]
+}
